@@ -1,5 +1,6 @@
-I’m @flowernotfound
-Studying at 42 Tokyo
+I’m @flowernotfound</br>
+Studying at 42 Tokyo</br>
+from China
 
 <!---
 flowernotfound/flowernotfound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
