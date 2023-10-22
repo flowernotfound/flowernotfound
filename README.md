@@ -3,7 +3,7 @@ Studying at 42 Tokyo</br>
 major : politics</br>
 from China
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowernotfound&theme=tokyonight&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowernotfound&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
 
 <!---
