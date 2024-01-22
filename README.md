@@ -1,7 +1,7 @@
 ### I’m @flowernotfound</br>
 42 Tokyo</br>
 major : politics</br>
-from China
+from Chinas</br>
 https://atcoder.jp/users/flowernotfound
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowernotfound&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
