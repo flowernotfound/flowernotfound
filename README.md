@@ -1,6 +1,5 @@
 ### I’m @flowernotfound</br>
 42 Tokyo</br>
-In-house system engineer</br>
 major : politics</br>
 from China</br>
 https://atcoder.jp/users/flowernotfound
