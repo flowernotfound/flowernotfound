@@ -1,2 +1,2 @@
-- Japanese / English / Chinese
-- JavaScript / TypeScript / Scala / PHP / Python / Perl / Rust / C / C++
+- Chinese / Japanese / English
+- JavaScript / Scala / Perl / Rust / C / C++
